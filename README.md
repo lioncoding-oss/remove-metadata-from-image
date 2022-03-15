@@ -1,6 +1,6 @@
 ## Remove metadata from an image using C#/.NET
 
-I download the image from https://www.flickr.com/photos/cameralabs/12382975864/in/photostream/
+I downloaded the image from https://www.flickr.com/photos/cameralabs/12382975864/in/photostream/
 
 This image contains EXIF and IPTC information.
 
