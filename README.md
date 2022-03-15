@@ -1,4 +1,5 @@
 ## Remove metadata from an image using C#/.NET
+Blog post: https://lioncoding.com/how-to-remove-metadata-from-images-in-.net/
 
 I downloaded the image from https://www.flickr.com/photos/cameralabs/12382975864/in/photostream/
 
